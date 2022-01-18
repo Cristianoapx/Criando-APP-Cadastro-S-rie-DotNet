@@ -1,7 +1,7 @@
-# Criando-APP-Cadastro-Serie-DotNet
-Projeto APP cadastro série .Net
+# Criando-APP-Cadastro-Serie-DotNet 
+* Projeto APP cadastro série .Net
 
-// Projeto Final Decola TEch 2 edição
+// Projeto Final Decola TEch 2 edição *️⃣
 
 using System;
 
@@ -44,7 +44,7 @@ namespace DIO.Series
                 opcaoUsuario = ObterOpcaoUsuario();
             }
 
-            Console.WriteLine("Obrigada por utilizar nossos serviços!");
+            Console.WriteLine("Estamos feliz em ter você como nosso cliente!!");
             Console.ReadLine();
         }
 
